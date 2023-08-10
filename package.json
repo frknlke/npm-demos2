@@ -1,0 +1,14 @@
+{
+  "name": "parquet-demo",
+  "version": "1.0.0",
+  "description": "decimal support",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Furkan Ülke",
+  "license": "ISC",
+  "dependencies": {
+    "parquetjs": "github:ZJONSSON/parquetjs#pull/44/head"
+  }
+}
